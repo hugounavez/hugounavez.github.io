@@ -98,6 +98,7 @@ main {
     .tagline {
       font-size: 22px;
       margin-top: 17px;
+      text-align: center;
       color: #aaa;
       white-space: pre-wrap;
       line-height: normal;
@@ -225,6 +226,7 @@ main {
 .post {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
+  text-align: justify;
   color: #222;
   line-height: 1.9em;
   a {
